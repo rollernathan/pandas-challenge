@@ -4,6 +4,8 @@ Challenge 4 - Pandas
 
 ## District Summary
 
+![District Summary](https://github.com/rollernathan/pandas-challenge/blob/main/Images/District_Summary.png)
+
 Our 15 schools have a total budget of about $25 million. Our schools have used this money well, considering of the 39,170 scholars, nearly 75% are passing math (average score of 79) and over 85% are passing reading (average score of 82). Additionally, 65% of scholars passed both math and reading, which is extremely good compared to the other districts in our state.
 
 ## School Summary
