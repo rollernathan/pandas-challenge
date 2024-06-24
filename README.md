@@ -28,7 +28,10 @@ The data showed something unexpected when looking at overall percentage passing 
 ### Highest Performing Schools
 ![Highest Performing Schools](https://github.com/rollernathan/pandas-challenge/blob/main/Images/Highest_Performing.png)
 ### Lowest Performing Schools
+![Lowest Performing Schools](https://github.com/rollernathan/pandas-challenge/blob/main/Images/Lowest_Performing.png)
+### Math Scores by Grade by School
 
+### Reading Scores by Grade by School
 
 
 ### Sources
